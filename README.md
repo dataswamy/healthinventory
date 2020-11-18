@@ -33,4 +33,5 @@ R06 - Antihistamines for systemic use
 Sales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
 
 Team Lead : Pradeep Chevva
+
 Team Members : BasvaRaj, Rini Gupta, Vinayak
