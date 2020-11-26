@@ -35,10 +35,10 @@ The dataset is built from the initial dataset consisted of 600000 transactional 
 Sales data are resampled to the hourly, daily, weekly and monthly periods. Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
 
 ## Contributors
-**Pradeep Chevva
+**Pradeep Chevva**
 
-**BasvaRaj 
+**BasvaRaj** 
 
-**Rini Gupta 
+**Rini Gupta** 
 
-**Vinayak
+**Vinayak**
