@@ -1,4 +1,4 @@
-# healthinventory
+# healthi Inventory
 ## Inventory of medical supplies
 
 ### Problem Statement : 
