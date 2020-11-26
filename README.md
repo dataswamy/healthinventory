@@ -42,3 +42,9 @@ Sales data are resampled to the hourly, daily, weekly and monthly periods. Data 
 **Rini Gupta** 
 
 **Vinayak**
+
+**Shammugapriyan K**
+
+**Matrika Subedi**
+
+**Raj Bharath**
