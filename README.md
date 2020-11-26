@@ -7,6 +7,8 @@ Manage Non Moving Stocks
 Analysing Fast Moving Products
 Analyse Inventory control and reorder frequency
 
+![Health-inentory](https://www.bscstoragesolutions.com/wp-content/uploads/2017/12/medical-storage.jpg)
+
 End User - Warehouse/Pharmacy
 Data - Dummy inventory data for past xx years
 
